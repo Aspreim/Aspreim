@@ -1,7 +1,10 @@
-# 👋 Hey there, I'm Aspreim!
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <a href="https://github.com/Aspreim">Aspreim</a>!</h1>
 
-I'm a **16-year-old developer from Turkey** passionate about creating things that actually *work* — from game servers to intelligent systems.  
-I love turning ideas into code, especially when it involves **Java (Bukkit)** and **Python**.
+<p align="center">
+  <strong>16-year-old developer from Turkey 🇹🇷</strong><br>
+  Passionate about <b>Java (Bukkit)</b>, <b>Python</b>, and building creative server systems.
+</p>
 
 ---
 
@@ -15,30 +18,49 @@ I love turning ideas into code, especially when it involves **Java (Bukkit)** an
 
 ---
 
-## ⚡ What I Do
+## ⚙️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,linux,ubuntu,vscode,idea,git,github&theme=dark" />
+</p>
+
+---
+
+## 🚀 What I Do
 
 | Area | Description |
 |------|--------------|
-| 🕹️ Minecraft Development | Custom Bukkit plugins, automation tools, and gameplay systems |
-| 🧬 Python Projects | Bots, scripts, and experimental AI projects |
-| 💻 System Stuff | Server automation, monitoring tools, and optimization |
+| 🕹️ **Minecraft Development** | Custom Bukkit plugins, gameplay systems, and automation tools |
+| 🧬 **Python Projects** | Bots, AI scripts, and backend utilities |
+| 💻 **System Stuff** | Server optimization, monitoring tools, and automation |
 
 ---
 
-## 🚀 Current Focus
+## 📊 GitHub Stats
 
-- Improving my **Bukkit plugin** development skills  
-- Experimenting with **Python-based AI systems**  
-- Learning advanced **networking and server management**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aspreim&show_icons=true&theme=tokyonight&hide_border=true" height="160em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aspreim&theme=tokyonight&hide_border=true" height="160em" />
+</p>
 
----
-
-## 📫 Reach Me
-
-- 💬 Discord: `aspreim`  
-- 🐙 GitHub: [github.com/Aspreim](https://github.com/Aspreim)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aspreim&layout=compact&theme=tokyonight&hide_border=true" height="160em" />
+</p>
 
 ---
 
-> _"Our most distinctive feature is that we act with reason, logic, and intelligence."_  
-> — **M. KEMAL ATATÜRK**
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://github.com/Aspreim"><img src="https://img.shields.io/badge/GitHub-Aspreim-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://discord.com/users/aspreim"><img src="https://img.shields.io/badge/Discord-aspreim-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Our most distinctive feature is that we act with reason, logic, and intelligence."</i><br>
+  — <strong>M. KEMAL ATATÜRK</strong>
+</p>
+
+---
